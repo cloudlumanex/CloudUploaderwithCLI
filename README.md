@@ -1,4 +1,5 @@
 # CloudUploaderwithCLI
-Create a bash-based CLI tool that allows users to quickly upload files to a specified Azure storage.
+Create a bash-based CLI tool allowing users to upload files to a specified AWS storage quickly.
 
-## I will be uploading soon.
+
+## 
